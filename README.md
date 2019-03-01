@@ -1,2 +1,2 @@
 # WebPlayPaper
-Web Wallpaper with Electron
+dynamic wallpaper
