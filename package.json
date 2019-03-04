@@ -1,0 +1,22 @@
+{
+  "name": "WebPlayPaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0lightbee0/WebPlayPaper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0lightbee0/WebPlayPaper/issues"
+  },
+  "homepage": "https://github.com/0lightbee0/WebPlayPaper#readme",
+  "dependencies": {}
+}

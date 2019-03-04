@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hello World!</title>
+    <style>
+      @keyframes F {
+        0% {
+          background: rgba(100, 0, 0, 0);
+        }
+        100% {
+          background: rgba(100, 0, 0, 1);
+        }
+      }
+      html {
+        pointer-events: none;
+      }
+    </style>
+    <script>
+      addEventListener("load", e => {
+        let cvs = document.querySelector("canvas");
+        console.log(cvs);
+      });
+    </script>
+  </head>
+  <body>
+    <canvas></canvas>
+  </body>
+</html>
